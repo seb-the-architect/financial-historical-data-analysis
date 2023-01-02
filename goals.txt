@@ -1,0 +1,13 @@
+General question: 
+Does the retail sales MoM evaluation every month incite predictable price movement in the short term?
+
+Tests:
+What percentage of months show a correct movement for the following hours after: 1hr
+For each of the months that were correct above, what was the minimum, maximum and average pip movement for each?
+Does the amount of absolute deviation from the forecast affect the likelihood of a correct price movement?
+What percentage of months show a correct movement BUT following the opening of the London session? if starting before anyway...
+Does the currency pair affect the likelihood of a correct price movement? --> [GBP_USD, GBP_JPY, EUR_GBP]
+Does only taking trades with the supposed "trend" affect the likelihood of a correct price movement?
+
+Next steps:
+Get An hour of forex data for each evaulation. and each pair

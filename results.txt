@@ -1,0 +1,55 @@
+1HR -----GBP_USD----- 1HR
+*************************
+
+The percentage of correctly predicted trades is 75.3%
+The percentage of incorrectly predicted trades is 24.7%
+
+In 14 out of 176 trades, the forecast and actual value were identical - no trade was taken.
+
+Correctly predicted trades - 122
+--------------------------
+
+Maximum value won: 143.1 pips
+Mean value won: 40.0 pips
+Minimum value won: 0.9 pips
+`````````````````````````````
+When expecting price to rise ~
+Highest high: 133.9
+Average high: 51.3
+
+When expecting price to fall ~
+Lowest low: -25.6
+Average low: -6.0
+```````````````````````````````
+Amount of trades we correctly expected price to fall: 46.7%
+Amount of trades we correctly expected price to rise: 53.3%
+
+Incorrectly predicted trades - 40
+--------------------------
+
+Maximum value lost: 220.1 pips
+Mean value lost: 22.6 pips
+Minimum value lost: 0.0 pips
+
+`````````````````````````````
+When expecting price to rise ~
+Highest high: 50.5
+Average high: 15.4
+
+When expecting price to fall ~
+Lowest low: -114.4
+Average low: -39.9
+```````````````````````````````
+
+Amount of trades we incorrectly expected price to fall: 35%
+Amount of trades we incorrectly expected price to rise: 62.5%
+
+Total pips accross all trades
+---------------------------
+
+Total won: 4147.0 pips
+Total loss: 904.0 pips
+
+Net profit: 4147.0 - 904.0 = 3234 pips
+
+Today's exchange rate: £26,215.5
